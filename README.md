@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruth Meißner</h1>
 <h3 align="center">A passionate full-stack developer from Germany</h3>
 
-- 🔭 I’m currently working on [LibraryFriends](https://github.com/r-meissner/libraryFriends)
+- 🔭 I’m currently working on [Trivia App](https://github.com/r-meissner/trivia-app)
 
 - 🌱 I’m currently learning **TypeScript and automated testing.**
 
